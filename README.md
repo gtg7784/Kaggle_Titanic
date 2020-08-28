@@ -20,8 +20,8 @@ code EDA.ipynb # using visual studio code
 
 ## Model
 
-Check Model.py
+Check train.py
 
 ```sh
-code Model.py # using visual studio code
+code train.py # using visual studio code
 ```
