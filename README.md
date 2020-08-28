@@ -3,7 +3,7 @@ Kaggle Titanic EDA, build Model
 
 ## Download Dataset
 
-using dataset with kaggle cli
+download dataset with kaggle cli
 
 ```sh
 kaggle competitions download -c titanic
